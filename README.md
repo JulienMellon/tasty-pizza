@@ -13,6 +13,8 @@ A pretty pizza shop website built using a template.
 
 ## Optimizations
 
+A real pizza website would have functionality to place an order and all sorts of little widgets that link to a google map and socials.
+
 
 ## Lessons Learned:
 
