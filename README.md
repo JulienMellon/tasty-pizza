@@ -18,4 +18,4 @@ A real pizza website would have functionality to place an order and all sorts of
 
 ## Lessons Learned:
 
-I'm not a designer.  Just because I know how to make the HTML and CSS do things doesn't mean that it's the best use of my time to try and make somthing like this from scratch.
+I'm not a designer.  Just because I know how to make the HTML and CSS do things doesn't mean that the best use of my time is to try and make something like this from scratch.
